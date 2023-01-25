@@ -1,5 +1,3 @@
-adisaJnr/Readme.md
-
 # Hey 👋,
  ## I'm Joshua Adisa 👨‍💻 i love to cook APIs for software development with these technologies🚀 :
  -  Nodejs,
